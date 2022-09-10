@@ -17,4 +17,8 @@ You can start and stop the timer, choose different cooking intervals..
   <img src="https://user-images.githubusercontent.com/48512714/189471286-a180d672-e5de-4889-ae64-c8365cbacee2.png" width = 200>
 </p>
 
+This app is part of Advanced Android Kotlin Development Nanodegree Program on Udacity
+
+
+
 
