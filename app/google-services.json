@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048289565027",
+    "project_id": "egg-timer-d755b",
+    "storage_bucket": "egg-timer-d755b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048289565027:android:a0ad8ffd711831900f5b56",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048289565027-j2gdc56roap69frr4d5v21uhc0fq8lqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRnDiR5T1tyw87XnuOUYaLFL8V7hyTYEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048289565027-j2gdc56roap69frr4d5v21uhc0fq8lqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
